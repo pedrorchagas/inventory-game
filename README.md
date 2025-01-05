@@ -6,3 +6,5 @@ Bem simples, com a gem Ruby2d foi possivel fazer tudo em questão de gráfico e 
 
 # Porque eu fiz?
 Fiz simplesmente para treinar minhas habilidades com o ruby e a logica de programação
+
+![GIF](./0105.gif)
